@@ -29,7 +29,19 @@ The confusion matrix provides an indication of the three errors made. Finally, t
                  precision    recall  f1-score   support
 
     Iris-setosa       1.00      1.00      1.00         7
-Iris-versicolor       0.85      0.92      0.88        12
+ Iris-versicolor       0.85      0.92      0.88        12
  Iris-virginica       0.90      0.82      0.86        11
 
     avg / total       0.90      0.90      0.90        30
+
+## Environment
+
+It would be enough if you have following libraries installed.
+scipy: 0.19.1
+numpy: 1.13.1
+matplotlib: 2.0.2
+pandas: 0.20.3
+statsmodels: 0.8.0
+sklearn: 0.19.0
+
+If you face any difficulty in installation, I've included my environment in the repository.
