@@ -1,5 +1,5 @@
 # irisFlowers
-My attempt at classification - 100 days of ML code
+My attempt at prediction - 100 days of ML code
 
 In this project, I attempt to get the data from this (https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) dataset,
 visualize it using matplotlib library and apply some Machine Learning algorithms
